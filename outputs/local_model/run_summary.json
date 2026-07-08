@@ -1,0 +1,12 @@
+{
+  "best_model_name": "XGBoost",
+  "best_score": 0.8720650210716436,
+  "primary_metric": "f1",
+  "workspace": "mlw-student-depression-prediction",
+  "registered_model": "student-depression-model-04",
+  "endpoint": "student-depression-endpoint",
+  "output_dir": "outputs/local_model",
+  "model_dir": "outputs/local_model/model",
+  "model_path": "outputs/local_model/model/model.pkl",
+  "comparison_path": "outputs/local_model/metrics/model_comparison_results.csv"
+}

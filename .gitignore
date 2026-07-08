@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+.env
+
+# Secrets
+streamlit_app/config.py
+
+# Data
+data/student_depression_dataset.csv
+
+# Outputs
+outputs/models/*.pkl
+outputs/**/*.pkl
+*.pkl
+mlruns/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/

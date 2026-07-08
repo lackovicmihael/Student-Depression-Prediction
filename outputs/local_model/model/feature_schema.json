@@ -1,0 +1,43 @@
+{
+  "target": "Depression",
+  "numeric_features": [
+    "Age",
+    "Academic Pressure",
+    "Work Pressure",
+    "CGPA",
+    "Study Satisfaction",
+    "Job Satisfaction",
+    "Work/Study Hours",
+    "Financial Stress"
+  ],
+  "categorical_features": [
+    "Gender",
+    "Sleep Duration",
+    "Dietary Habits",
+    "Degree",
+    "Have you ever had suicidal thoughts ?",
+    "Family History of Mental Illness"
+  ],
+  "all_features": [
+    "Age",
+    "Academic Pressure",
+    "Work Pressure",
+    "CGPA",
+    "Study Satisfaction",
+    "Job Satisfaction",
+    "Work/Study Hours",
+    "Financial Stress",
+    "Gender",
+    "Sleep Duration",
+    "Dietary Habits",
+    "Degree",
+    "Have you ever had suicidal thoughts ?",
+    "Family History of Mental Illness"
+  ],
+  "dropped_columns": [
+    "id",
+    "Name",
+    "City",
+    "Profession"
+  ]
+}

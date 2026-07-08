@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "Gender": "Male",
+      "Age": 22,
+      "Academic Pressure": 3,
+      "Work Pressure": 0,
+      "CGPA": 8.0,
+      "Study Satisfaction": 3,
+      "Job Satisfaction": 0,
+      "Sleep Duration": "5-6 hours",
+      "Dietary Habits": "Moderate",
+      "Degree": "B.Tech",
+      "Have you ever had suicidal thoughts ?": "No",
+      "Work/Study Hours": 6,
+      "Financial Stress": 2,
+      "Family History of Mental Illness": "No"
+    }
+  ]
+}
